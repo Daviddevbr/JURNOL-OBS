@@ -1,0 +1,184 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Montserrat:ital,wght@0,400;1,600&family=Pixelify+Sans&family=Silkscreen&display=swap');
+
+body{
+    background-color: #18171b;
+    color: white;
+}
+header{
+
+    margin: 20px;
+    text-align: center;
+   
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+}
+.video{
+    background: linear-gradient( #18171b,#24222bcb, #18171b);
+    position: relative;
+    min-height: 100vh;
+}
+
+.background_apresentation{
+    object-fit: cover;
+    position:absolute;
+    top:0;
+    height: 100vh;
+    width: 100%;
+    z-index: -10;
+  
+}
+.titulo{
+    text-align: center;
+    padding-top: 40vh;
+}
+.titulo > h1{
+
+    font-size: 80px;
+    text-decoration: line-through;
+}
+
+.titulo>p{
+font-size: 30pt;
+letter-spacing: 20px;
+}
+
+.sobre{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-size: 20pt;
+    padding: 50px;
+}
+.sobre>h1{
+    font-size: 30pt;
+    margin-bottom: 50px;
+}
+
+
+#difculdades{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 30pt;
+}
+
+.motivos{
+    
+    margin-top: 100px;
+    margin-left: 15vw;
+    width:100vh;
+    
+}
+.motivos>h1{
+    font-size: 25pt;
+    text-align: start;
+}
+.motivos>p{
+    text-align: start;
+    font-size: 15pt;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+.fonte{
+    font-size: 10pt;
+    margin-left: 300px;
+
+}
+
+#abaixo{
+    
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-size: 30pt;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.pwr{
+    margin-bottom: 50px;
+    margin-left:5vw ;
+}
+.foto_perfil{
+    display: inline-block;
+    text-align: center;
+
+}
+.foto_perfil>img{
+    width: 50%;
+}
+.foto_perfil>figcaption{
+    font-size: 9pt;
+}
+
+.sobre-elas{
+    text-align: start;
+    display: inline-block;
+    font-size: 15pt;
+    width: 50vw;
+    
+}
+.sobre-elas>h1{
+    font-size: 25pt;
+}
+
+.contato{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 40vh;
+}
+
+.contato>p{
+
+    font-size: 25px;
+
+}
+.form{
+    font-size: 20px;
+    margin-top: 30px;
+
+    text-align: center;
+    
+   
+}
+
+label{
+    display: block;
+}
+
+input{
+    height: 25px;
+    border: none;
+    outline: none;
+}
+
+.enviar{
+    height: 25px;
+    width: 50px;
+}
+
+#top{
+    position: fixed;
+    top: 880px;
+    left: 1800px;
+    font-size: 50pt;
+    margin: 0px;
+    padding: 0px;
+    
+
+
+}
+
+.caso-de-sucesso,figure > img{
+
+    width: 80vw;
+
+}
