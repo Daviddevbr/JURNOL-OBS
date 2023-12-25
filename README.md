@@ -16,7 +16,7 @@ Abaixo as características da persona criada
 
 ### Jornal com viés de esquerda 
 
-### se apresenta detalhista e presa muito por uma interface moderna e detalhista
+### se apresenta detalhista e preza muito por uma interface moderna e detalhista
 
 ### em seu problema busca atender um público específico de nicho.
 
