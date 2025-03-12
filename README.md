@@ -1,10 +1,10 @@
 # Jurnol obs | Women in Technology
 
-este é apena um projeto que eu fiz para treinar depois de ter concluido o modulo de CSS3 do curso one bit code 
+este é apenas um projeto que eu fiz para treinar depois de ter concluido o modulo de CSS3 do curso one bit code 
 
 ### 🚧 Em construção... 🚧
 
-Foi desenvolvido o site imaginando um uma persona a <h1>JURNOL OBS </h1>
+Foi desenvolvido o site imaginando um uma persona <h1>JURNOL OBS </h1>
 
 foi apresenta pela parte contrate a criação de um site e nele ser apresentado a campanha da empresa para capacitar as mulheres no mercado de trabalho na área de TI na proposta especificado para deixar descrito os principais problemas das mulheres na área de TI e figuras históricas para ser mostrado na composição do mesmo.
 
